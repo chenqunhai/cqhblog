@@ -1,0 +1,241 @@
+undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)undefined ReferenceError: C:/Users/陈群海-Ml/Desktop/cqhblog/views/include/header.html:2
+    1| <!DOCTYPE html>
+ >> 2| <html lang="en">
+    3| <head>
+    4|     <meta charset="UTF-8">
+    5|     <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
+
+articles is not defined
+    at eval (eval at <anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:485:12), <anonymous>:49:7)
+    at returnedFn (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:514:17)
+    at View.exports.renderFile [as engine] (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\ejs\lib\ejs.js:358:31)
+    at View.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\view.js:126:8)
+    at tryRender (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\express\lib\response.js:961:7)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\routes\article.js:19:17
+    at Query.<anonymous> (C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\mongoose\lib\query.js:2220:28)
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:259:21
+    at C:\Users\陈群海-Ml\Desktop\cqhblog\node_modules\kareem\index.js:127:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
